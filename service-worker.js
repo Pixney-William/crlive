@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fa62188c75b35ee71b9ee414e740446a.js"
+  "/precache-manifest.41db1f4f99fdd4d75beddb884ffb77e6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "coin-market-v3"});

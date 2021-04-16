@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.4085853b.css"
   },
   {
-    "revision": "0a8bae1785307359b6a1",
+    "revision": "9c5e9f3e5fc57e923597",
     "url": "/css/app.8a483385.css"
   },
   {
@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/ClashGrotesk-Variable.woff2"
   },
   {
-    "revision": "2a3876f13d6b0a8aa38ff0b5d5e4e5ff",
+    "revision": "0cc6e5e9edb079d282bd29945ab37dcb",
     "url": "/index.html"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.05ece386.js"
   },
   {
-    "revision": "0a8bae1785307359b6a1",
-    "url": "/js/app.3dc1a1b4.js"
+    "revision": "9c5e9f3e5fc57e923597",
+    "url": "/js/app.eeb0f61b.js"
   },
   {
     "revision": "7bd4d7703ecafe913401",
